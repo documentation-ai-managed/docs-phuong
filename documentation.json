@@ -70,6 +70,22 @@
                 "icon": "columns"
               }
             ]
+          },
+          {
+            "group": "GIÁO TRÌNH",
+            "pages": [
+              {
+                "group": "NHẬP MÔN PHÂN TÍCH KINH DOANH",
+                "pages": [
+                  {
+                    "title": "CHƯƠNG 1: XÁC ĐỊNH CÂU HỎI: SỬ DỤNG PHÂN TÍCH KINH DOANH ĐỂ GIẢI QUYẾT CÁC CÂU HỎI KINH DOANH",
+                    "path": "xac-dinh-cau-hoi",
+                    "icon": "badge-question-mark"
+                  }
+                ],
+                "icon": "area-chart-icon"
+              }
+            ]
           }
         ]
       },
