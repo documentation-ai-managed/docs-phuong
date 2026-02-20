@@ -16,7 +16,12 @@
         "groups": [
           {
             "group": "NHẬP MÔN PHÂN TÍCH KINH DOANH",
-            "pages": [],
+            "pages": [
+              {
+                "title": "Xac Dinh Cau Hoi",
+                "path": "xac-dinh-cau-hoi"
+              }
+            ],
             "icon": "chart-area"
           }
         ]
